@@ -1,0 +1,12 @@
+{
+  "name": "Stonewave Trading FZCO",
+  "short_name": "Stonewave",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0e2533",
+  "theme_color": "#0e2533",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
